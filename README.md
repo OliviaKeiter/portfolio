@@ -47,7 +47,7 @@ An enterprise automation pipeline that reduces weekly case review from 4-6 hours
 - Numbered output folders prevent overwrites and create a full audit trail
 - 4 specialized AI prompt templates for different review types
 
-**- User experience and personality**
+**User experience and personality:**
 The tool is designed to be used by real people under real time pressure — so it has a personality.
 Loading screens and the AI processing stage (the longest wait in the pipeline) surface rotating tips. Some are practical IM guidance. Some are not: "In the morning, put on one sock at a time." The tips exist because waiting is less frustrating when something makes you smile.
 At the end of every run, a "Tip Your Developer Jar" prompt lets users select a donation amount. The tool responds: "Just kidding, this tool is FREE!" and loops back to the home menu.
