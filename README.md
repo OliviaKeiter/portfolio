@@ -22,7 +22,7 @@ This repository showcases production tools and AI agents built to solve real ope
 
 ## Featured Projects
 
-### Case Review Automation V5
+### Case Review Automation V1
 **`Python · Pandas · OpenPyXL · Regex · AI Prompt Engineering`**
 
 An enterprise automation pipeline that reduces weekly case review from 4-6 hours to 15 minutes — an estimated **95% time reduction**, saving and an estimated **299 hours annually**.
