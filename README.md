@@ -22,6 +22,15 @@ This repository showcases production tools and AI agents built to solve real ope
 
 ## Featured Projects
 
+Incident Management Hub (IMH) v1.1
+
+Python · Azure AI · Microsoft Copilot · LLM Orchestration · Prompt Engineering
+
+The evolution of Case Review Automation into a full agentic incident management platform. Built and deployed in a federal enterprise environment supporting 30+ U.S. Government customers.
+Eliminates approximately 1,000 manual actions per day. Enabled daily case reviews at a scale previously impossible with manual methods.
+
+Features: Multi-stage AI pipeline, executive PDF reporting, trend tracking, parent-child case relationships, AI executive summaries, visual charts, closed case processing for after-action reviews, session restore, integrated feedback form, bug detection and ICM tracking, audit logging.
+
 ### Case Review Automation V1
 **`Python · Pandas · OpenPyXL · Regex · AI Prompt Engineering`**
 
